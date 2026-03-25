@@ -1,5 +1,0 @@
-# Sync targets — one absolute path per line
-# Lines starting with # are ignored
-
-# Example:
-# /x/y/z

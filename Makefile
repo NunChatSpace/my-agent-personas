@@ -1,5 +1,5 @@
 .PHONY: patch-persona
 
-patch-persona:
+sync:
 	@chmod +x sync.sh
 	@./sync.sh
